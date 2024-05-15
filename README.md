@@ -1,6 +1,5 @@
-Myself Soham Bhogale.
+Soham Bhogale.
 Pursuing Computer Science Engineering.
-Domain - Ethical Hacking & Developement.
 
 
 
